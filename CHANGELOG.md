@@ -101,3 +101,10 @@
 ### 09/04/2026
 - **New** · aggiunto — *Gabriele* · Progetto 1
 - **Bug fix** · Prima voce — copia il frame nella pagina del componente — *Mario Rossi* · PRJ000001
+
+---
+
+## select
+
+### 09/04/2026
+- **New** · ciao — *ciao*
