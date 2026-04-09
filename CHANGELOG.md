@@ -56,6 +56,9 @@
 
 ## chips
 
+### 09/04/2026
+- **Deprecated** · sadasda — *asdasda* · asdasd
+
 ### 02/04/2026
 - **Bug fix** · ESPLOSIONE NUCLEARE — *Il pumone*
 - **Deprecated** · Le chips anche se appena ggiunte già non le vogliamo più — *Giacomo*
