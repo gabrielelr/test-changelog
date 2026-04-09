@@ -93,3 +93,11 @@
 - **Updated** · tolto header — *germinone*
 - **Updated** · — — *Germinone nazionalone*
 - **Bug fix** · Prima voce — copia il frame nella pagina del componente — *Mario Rossi*
+
+---
+
+## alert
+
+### 09/04/2026
+- **New** · aggiunto — *Gabriele* · Progetto 1
+- **Bug fix** · Prima voce — copia il frame nella pagina del componente — *Mario Rossi* · PRJ000001
