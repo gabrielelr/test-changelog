@@ -5,6 +5,11 @@
 
 ## accordion
 
+### 02/04/2026
+- **Updated** · CIAO — *Il Puma* · CIAONE
+- **Updated** · aggiunta icona — *Gabriele*
+- **Updated** · eliminato titolo — *Gabriele*
+
 ### 09/04/2026
 - **Updated** · sadasdas — *gaia*
 - **New** · fsasdasd — *Gabriele*
@@ -22,6 +27,14 @@
 ---
 
 ## button
+
+### 02/04/2026
+- **Updated** · ppp — *pop*
+- **Updated** · Gap diminuito 2px — *Gaia*
+- **Updated** · lalalalala — *Gaia*
+- **New** · modifica 1 — *gabriele*
+- **New** · modifica 2 — *gabriele*
+- **New** · modifica 3 — *gabriele*
 
 ### 09/04/2026
 - **Deprecated** · IMPLOSIONE ATOMICA — *GABRIELLO*
@@ -42,6 +55,11 @@
 
 ### 02/04/2026
 - **Bug fix** · ESPLOSIONE NUCLEARE — *Il pumone*
+- **Deprecated** · Le chips anche se appena ggiunte già non le vogliamo più — *Giacomo*
+- **Deprecated** · Le chips sono belle milioni di milioni — *Giacomo*
+
+### 02/04/2026
+- **Bug fix** · ESPLOSIONE NUCLEARE — *Il pumone*
 - **Bug fix** · Le chips anche se appena ggiunte già non le vogliamo più — *Il pumone*
 - **Bug fix** · Le chips sono belle milioni di milioni — *Il pumone*
 - **Deprecated** · — — *Giacomo*
@@ -50,6 +68,17 @@
 ---
 
 ## Table
+
+### 09/04/2026
+- **Deprecated** · ciao — *Gabriele* · Ciao
+- **Deprecated** · ciao2 — *Gabriele* · Ciao
+- **Deprecated** · ciao3 — *Gabriele* · Ciao
+
+### 02/04/2026
+- **Updated** · come va? — *germinone*
+- **Updated** · funziona? — *germinone*
+- **Updated** · aggiunta riga — *Germinone nazionalone*
+- **Updated** · tolto header — *Germinone nazionalone*
 
 ### 02/04/2026
 - **Updated** · come va? — *germinone*
