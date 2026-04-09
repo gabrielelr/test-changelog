@@ -23,6 +23,9 @@
 
 ## button
 
+### 09/04/2026
+- **Deprecated** · IMPLOSIONE ATOMICA — *GABRIELLO*
+
 ### 02/04/2026
 - **Updated** · ppp — *pop*
 - **Updated** · Gap diminuito 2px — *pop*
